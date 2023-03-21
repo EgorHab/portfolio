@@ -14,7 +14,7 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/EgorHab)
-- [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1Z25WitlAAzbU_lLvRiubaLIQQ15knu9TWYk35KW7OI4/edit?usp=sharing)
+- [Test-Cases](https://docs.google.com/spreadsheets/d/1Z25WitlAAzbU_lLvRiubaLIQQ15knu9TWYk35KW7OI4/edit?usp=sharing)
 - [Bug-Reports](https://github.com/EgorHab)
 - [SQL Queries](https://github.com/EgorHab)
 - [Postman Collections](https://github.com/EgorHab)
