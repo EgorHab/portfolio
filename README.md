@@ -1,1 +1,1 @@
-# portfolio
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=515&lines=I+am+a+beginner+software+tester.+;Here+are+examples+of+my+work+on+key+skills.+;I+hope+this+will+interest+you!" alt="Typing SVG" /></a>
