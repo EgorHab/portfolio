@@ -18,8 +18,6 @@
 - [Bug-Reports](https://github.com/EgorHab)
 - [Test Design](https://docs.google.com/spreadsheets/d/1y6Fr5rfOGiobwWz5eNUtNmV1nyaB8AOvcpRJ1iPSXiM/edit?usp=sharing)
 - [SQL Queries](https://github.com/EgorHab/portfolio/blob/main/SQL%20Queries.txt)
-- [Postman Collections](https://github.com/EgorHab)
-
 
 
 
