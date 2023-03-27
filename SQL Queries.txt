@@ -78,9 +78,23 @@ SUBSTR (started_at, 1, 2); // приведение формата даты к п
 sqlite> SELECT AVG (final_grade) FROM final_grades; //нахождение среднего значения
 sqlite> SELECT course_id, SUM(students_amount) FROM streams GROUP BY course_id; //сумма значений столбца с группировкой по индентификатору
 
+--------------------------------------------------------------------------------------------------------------
+/*Многотабличный запрос*/
 
+sqlite> SELECT
+   ...> (SELECT name FROM teachers WHERE teacher_id = teacher_id) AS teacher_name,
+   ...> (SELECT surname FROM teachers WHERE teacher_id  = teacher_id) AS teacher_surname,
+   ...> (SELECT name FROM courses WHERE course_id =
+(x1...> (SELECT course_id FROM streams WHERE id = stream_id)
+(x1...> ) AS course_name,
+   ...> final_grade
+   ...> FROM final_grades;
 
+--------------------------------------------------------------------------------------------------------------
+/*Объединение JOIN*/
 
-
+sqlite> SELECT * FROM teachers JOIN final_grades WHERE teachers.teacher_id = final_grades.teacher_id; //внутреннее объединение(inner join)
+sqlite> SELECT * FROM teachers LEFT JOIN final_grades WHERE teachers.teacher_id = final_grades.teacher_id; //левое внешнее объединение(left join)
+sqlite> SELECT * FROM teachers RIGHT JOIN final_grades WHERE teachers.teacher_id = final_grades.teacher_id; //правое внешнее объединение (right join)
 
 
