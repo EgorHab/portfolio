@@ -15,7 +15,7 @@
 
 - [Checklists](https://docs.google.com/spreadsheets/d/14TTr3J6SjkETi9GLJ9yibr6XdVuxI3kb0dydRPaxC78/edit?usp=sharing)
 - [Test-Cases](https://docs.google.com/spreadsheets/d/1Z25WitlAAzbU_lLvRiubaLIQQ15knu9TWYk35KW7OI4/edit?usp=sharing)
-- [Bug-Reports](https://github.com/EgorHab)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/1Z25WitlAAzbU_lLvRiubaLIQQ15knu9TWYk35KW7OI4/edit?usp=sharing)
 - [Test Design](https://docs.google.com/spreadsheets/d/1y6Fr5rfOGiobwWz5eNUtNmV1nyaB8AOvcpRJ1iPSXiM/edit?usp=sharing)
 - [SQL Queries](https://github.com/EgorHab/portfolio/blob/main/SQL%20Queries.txt)
 
